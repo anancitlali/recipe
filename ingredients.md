@@ -1,4 +1,4 @@
-Ingredients for butter cookies
+Ingredients for BUTTER COOKIES version 3
 
 1 cup butter
 
