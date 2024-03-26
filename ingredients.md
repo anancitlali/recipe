@@ -1,3 +1,5 @@
+Enjoy my recipe!
+
 Ingredients for BUTTER COOKIES version 3
 
 1 cup butter
@@ -11,3 +13,5 @@ Ingredients for BUTTER COOKIES version 3
 2 ⅔ cups all-purpose flour
 
 ¼ teaspoon salt
+
+Let's begin! 
