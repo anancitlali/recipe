@@ -1,4 +1,4 @@
-# New fancy readme
+# **New fancy readme**
 ### Trying markdown
 ### This is a REMOTE change :Oo
 # Butter cookies recipe 
@@ -8,8 +8,6 @@ Source: Source: https://www.allrecipes.com/recipe/10011/butter-cookies-ii/
 last line changed locally
 ### This is a LOCAL change :)
 List of ingredients
-<ol>
-  <li>Butter</li>
-  <li>Sugar</li>
-  <li>Flour</li>
-</ol>
+-Butter
+-Sugar
+-Flour
